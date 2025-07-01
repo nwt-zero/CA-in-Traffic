@@ -1,7 +1,7 @@
-from grid import TrafficLightGrid, FourWayStop
-import matplotlib.pyplot as plt
-import matplotlib.animation as animation
 from functools import partial
+import matplotlib.pyplot as plt
+from matplotlib import animation
+from grid import TrafficLightGrid, FourWayStop
 
 # Cellular Automata in Traffic
 # Group: Nikhil Thimmadasaiah, Nem Mehta, Shonn Vinchurkar
